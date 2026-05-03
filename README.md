@@ -2,7 +2,7 @@
 
 > AI-powered player scouting built for the VCT 2027 era.
 
-![Overview](screenshots/overview.png)
+![Overview](Screenshots/overview.png)
 
 ---
 
@@ -29,7 +29,7 @@ Kanban board to manage your full recruiting workflow:
 
 Drag and drop between stages. Persists immediately to Supabase.
 
-![Pipeline](screenshots/pipeline.png)
+![Pipeline](Screenshots/pipeline.png)
 
 ### 🤖 AI Scouting Reports
 Powered by **Llama 3.1:8b running locally via Ollama** — no API costs, no data leaving your machine.
@@ -41,7 +41,7 @@ Input a player + your coach system style, get back:
 - Red flags
 - Recommendation
 
-![AI Scout](screenshots/ai-scout.png)
+![AI Scout](Screenshots/ai-scout.png)
 
 ### 🧩 Roster Builder
 Slot 5 players into IGL / Duelist / Sentinel / Controller / Flex roles. Run AI composition analysis to evaluate synergies, gaps, and risk.
